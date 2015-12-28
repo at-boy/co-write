@@ -31,9 +31,9 @@ The purpose of this is not to write a perfect story but rather writing just for 
 
 ### v0.4 Doyle
 * Implement stricter rules for waitinglist
-..* Author can apply for waitinglist if he or she have not written a part of the story yet
-..* Author can apply for waitinglist if 3 other authors have is on the list after the authors last turn
-..* Author can apply for waitinglist if it has been 24 hours since last turn and limit of 3 has not been reached
+⋅⋅* Author can apply for waitinglist if he or she have not written a part of the story yet
+⋅⋅* Author can apply for waitinglist if 3 other authors have is on the list after the authors last turn
+⋅⋅* Author can apply for waitinglist if it has been 24 hours since last turn and limit of 3 has not been reached
 
 ### Future versions
 #### v0.5 Wells
