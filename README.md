@@ -20,20 +20,20 @@ The purpose of this is not to write a perfect story but rather writing just for 
 * Show "complete" story on front page (only published parts)
 
 ### v0.2 Verne
-* Implement waitinglist, authors apply to list instead of waiting on site for someone to stop writing
+* Implement waiting list, authors apply to list instead of waiting on site for someone to stop writing
 * System sends e-mail to authors on their turn, author gets 3 hours to click link to accept their turn
 * New timeout of 8 hours to write, countdown starts when authors accepts their turn
 
 ### v0.3 Carroll
-* Add max wordcount of 126 words
-* Add minimum wordcount of 20 words
+* Add max word count of 126 words
+* Add minimum word count of 20 words
 * Add auto-save so author can leave site at come back at a later time to finish
 
 ### v0.4 Doyle
-* Implement stricter rules for waitinglist
-⋅⋅* Author can apply for waitinglist if he or she have not written a part of the story yet
-⋅⋅* Author can apply for waitinglist if 3 other authors have is on the list after the authors last turn
-⋅⋅* Author can apply for waitinglist if it has been 24 hours since last turn and limit of 3 has not been reached
+* Implement stricter rules for waiting list
+* Author can apply for waiting list if he or she have not written a part of the story yet
+* Author can apply for waiting list if 3 other authors have is on the list after the authors last turn
+* Author can apply for waiting list if it has been 24 hours since last turn and limit of 3 has not been reached
 
 ### Future versions
 #### v0.5 Wells
